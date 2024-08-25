@@ -10,6 +10,9 @@ python = "^3.12"
 pypdf2 = "^3.0.1"
 pikepdf = "^9.2.0"
 colorama = "^0.4.6"
+fitz = "^0.0.1.dev2"
+pymupdf = "^1.24.9"
+peepdf = { path = "./peepdf" }
 
 
 [build-system]
